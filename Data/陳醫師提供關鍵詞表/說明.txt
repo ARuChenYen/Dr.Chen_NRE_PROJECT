@@ -1,0 +1,8 @@
+1. word_database_180716.xlsx
+7/16日確認的關鍵詞 (只有單字)
+
+2. word_database_180802.xlsx
+8/2日確認的關鍵詞 (已經改成了片語型式)
+
+3. word_database_180809.xlsx
+8/9日確認的關鍵詞 (加入neuroner的訓練結果)

@@ -1,0 +1,16 @@
+1. YFC_report_new.txt
+陳醫師提供的兩萬五千份的病例
+作為neuroner的訓練資料
+
+2. YFC_report_180718.txt
+7/18日在提供的五百八十幾筆的訓練資料
+後續有跟第一份資料合併後一起訓練
+
+3. MANY_report.txt
+三千多份由不同醫師撰寫的報告
+用來作為neuroner的預測資料
+
+4. MANY_corrected_sentence.txt
+3. 排序過並且修正錯字後的結果
+
+
